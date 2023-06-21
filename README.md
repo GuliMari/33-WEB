@@ -14,6 +14,6 @@ vagrant стэнд с проброшенными на локалхост пор�
 
 # Выполнение
 Разворачиваем стенд и проверяем:
-![alt text]()
-![alt text]()
-![alt text]()
+![alt text](https://github.com/GuliMari/33-WEB/blob/main/django.png)   
+![alt text](https://github.com/GuliMari/33-WEB/blob/main/node.png)    
+![alt text](https://github.com/GuliMari/33-WEB/blob/main/wordpress.png)
